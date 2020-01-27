@@ -4,3 +4,4 @@ this is a new line
 
 
 line newly added
+commit by user1
