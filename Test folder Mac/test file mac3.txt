@@ -4,3 +4,5 @@ this is a new line
 
 
 line newly added
+
+line added by user2
